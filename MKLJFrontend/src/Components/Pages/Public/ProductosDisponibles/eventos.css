@@ -1,0 +1,20 @@
+.List{
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 4rem);
+}
+.List span{
+  padding:1em;
+  box-shadow: 0px 2px 3px #333;
+}
+
+.inicio{
+  margin-top: 60px;
+  align-content: center;
+  align-items: center;
+}
+
+.cantidades{
+  align-content: center;
+  align-items: center;
+}

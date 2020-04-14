@@ -1,0 +1,42 @@
+.home {
+  box-sizing: border-box;
+  background-color: #4485A3;
+  background: url("../../../../Sources/16.jpeg") no-repeat center center;
+  background-size: cover;
+  height: 100%;
+  color: white;
+  text-shadow: black 0.2em 0.1em 0.2em;
+  font-size: 1.4em;
+  padding: 0;
+  margin: 0px;
+  display: flex;
+  min-height: calc(100vh - 50px);
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.btnout{
+  margin-top: 340px;
+  width: 80%;
+  margin-left: 210px;
+}
+.home h1{
+  text-align:center !important;
+  justify-content: center;
+  align-self: center;
+  width:90%;
+}
+.home .half{
+  width:40%;
+}
+
+.btnout{
+  z-index: 100;
+  position: absolute;
+}
+
+.fond{
+  background-color:#4485A3;
+  color: white;
+}

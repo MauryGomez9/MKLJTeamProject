@@ -1,0 +1,16 @@
+.inicio{
+   margin-top: 60px;
+   align-content: center;
+   align-items: center;
+}
+
+h1{
+    justify-content: center !important;
+}
+
+.btnsuccess{
+    background-color: #4485A3;
+    border-radius: 100px !important;
+    color: white;
+    font-weight: normal;
+}
